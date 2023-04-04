@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">Ultimate RATs Source Archive</h1>
+<img src=https://img.shields.io/github/repo-size/ChimesOfDestruction/RATs-Source-Collection alt="Repo Size"> 
 <b align="center">Including languages: Autoit, Delphi, .NET, VB6, C++ and more.</b>  
 <br>
 <br>
